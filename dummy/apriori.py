@@ -171,5 +171,5 @@ def generate_association_rules():
                         print "Rule#  %d : %s ==> %s %d %d" %(num, s, m, 100*inc2/len(D), 100*inc2/inc1)
                         num += 1  
 
-generate_association_rules()   
+generate_association_rules()   cadcaca
 print "--------------------------------------------------------"

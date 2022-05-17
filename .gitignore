@@ -1,2 +1,2 @@
 *.xlsx
-!a/**/*.xlsx
+!a/*/*.xlsx

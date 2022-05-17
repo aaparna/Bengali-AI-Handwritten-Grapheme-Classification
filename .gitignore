@@ -1,2 +1,3 @@
-*.py
-dummy
+*.xlsx
+!directory/*.xlsx
+!directory/*
